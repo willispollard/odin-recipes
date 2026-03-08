@@ -1,0 +1,36 @@
+body {
+  background-color: aliceblue;
+  font-family: sans-serif;
+}
+
+.title {
+  background-color: rgb(146, 198, 244);
+  text-align: center;
+  border: 100px;
+  border-style: dashed;
+  padding: 20px;
+}
+
+.items {
+  background-color: rgb(199, 150, 150);
+  margin: 10px;
+  padding: 10px
+}
+
+.item-1 {
+  margin: 10px;
+  padding: 5px;
+  outline: 2px solid white;
+}
+
+.item-2 {
+  margin: 10px;
+  padding: 5px;
+  outline: 2px solid white;
+}
+
+.item-3 {
+  margin: 10px;
+  padding: 5px;
+  outline: 2px solid white;
+}
